@@ -2,7 +2,7 @@
 
 **Name  :** Mohamed Iliass KADDAR  
 **Module:** Deep Learning
-
+> you can find all my labs on kaggle as public notebooks : [my kaggle](https://www.kaggle.com/kaddarmohamediliass/code) 
 ## Labs
 
 - Lab 1: [ Multi class Classification & Regression Architectures using PyTorch](./lab1/README.md)
